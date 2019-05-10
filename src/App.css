@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -21,6 +21,23 @@
 
 .App-link {
   color: #61dafb;
+} */
+.dropdowns{
+  font-size: 16px;
+  height: 35px;
+  width: 150px;
+  padding: 5px;
+  margin-bottom: 15px;
+  margin-left: 30px;
+  color: #690808;
+}
+.labels{
+  margin-left: 5px;
+  color: #17a2b8;
+  font-weight: bold
+}
+.editorClass{
+  padding-left: 818%;
 }
 
 @keyframes App-logo-spin {
